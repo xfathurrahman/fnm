@@ -1,5 +1,17 @@
 ## 1.31.0 (2022-02-16)
 
+## 1.37.2
+
+### Patch Changes
+
+- [#1204](https://github.com/Schniz/fnm/pull/1204) [`19bffe5`](https://github.com/Schniz/fnm/commit/19bffe5af6ee1d624095c94f5ec55660fe69ac3b) Thanks [@JLarky](https://github.com/JLarky)! - Document how to use nightly builds
+
+- [#1218](https://github.com/Schniz/fnm/pull/1218) [`345adaf`](https://github.com/Schniz/fnm/commit/345adafb856e2e0ba8feb8acf487a4669cea4055) Thanks [@Schniz](https://github.com/Schniz)! - internal: retry download in case of error in test proxy
+
+- [#1226](https://github.com/Schniz/fnm/pull/1226) [`8e2d37d`](https://github.com/Schniz/fnm/commit/8e2d37d858b15d965d9644b27f5c111478cc59f2) Thanks [@mo8it](https://github.com/mo8it)! - performance optimizations, especially for `fnm env`
+
+- [#1223](https://github.com/Schniz/fnm/pull/1223) [`2b211ef`](https://github.com/Schniz/fnm/commit/2b211ef64a7eb2ff5fe7ac017d1f963db522b6cf) Thanks [@mo8it](https://github.com/mo8it)! - Allow reading non-unicode paths from environment variables
+
 ## 1.37.1
 
 ### Patch Changes
